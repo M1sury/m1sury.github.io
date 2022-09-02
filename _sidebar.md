@@ -4,3 +4,5 @@
 * [Nginx](./docs/Nginx.md)
 
 * [举个例子](./docs/举个例子.md)
+
+* [部署](./docs/部署.md)
