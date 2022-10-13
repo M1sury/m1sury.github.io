@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Miracle</h1>
 
-[百度](https://www.baidu.com)
 [GitHub](https://github.com/M1sury)
 [开始阅读](#miracle)
 
